@@ -1,0 +1,97 @@
+[
+  {
+    "id": "e1f2e4b0-8450-456b-a570-d5a6f4017c25",
+    "data": [
+      {
+        "text": "깃허브 주소를 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "737f16f4-87d9-4c52-93c3-e93243c04925",
+    "data": [
+      {
+        "text": "유튜브 주소를 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0e5988c4-b74c-456e-b4a4-da9e833c16a3",
+    "data": [
+      {
+        "text": "youtube",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ae218d9b-3b81-470f-8789-ba2e37a942a8",
+    "data": [
+      {
+        "text": "git",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cdd9e102-3ff1-4bbc-91af-cbc61b453bfd",
+    "data": [
+      {
+        "text": "site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7aa5dad7-33e1-4043-9bbf-a149614f668c",
+    "data": [
+      {
+        "text": "관련",
+        "userDefined": false
+      },
+      {
+        "text": " 주소를 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a4b9c83b-1ce9-4825-bd59-2e911924474b",
+    "data": [
+      {
+        "text": "주소",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

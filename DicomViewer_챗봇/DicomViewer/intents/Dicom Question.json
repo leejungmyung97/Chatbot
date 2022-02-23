@@ -1,0 +1,35 @@
+{
+  "id": "de55d4ed-3b3b-4d7f-9eb2-5f0aa73e8cbe",
+  "name": "Dicom Question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "# GitHub\nhttps://github.com/awholeneworld/MobileDicomViewer\n\n# Youtube\nhttps://www.youtube.com/watch?time_continue\u003d634\u0026v\u003drVPwWlqNtRU\u0026feature\u003demb_logo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

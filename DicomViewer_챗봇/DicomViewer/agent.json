@@ -1,0 +1,23 @@
+{
+  "description": "Hello. This is \u0027Dicom Viewer Chatbot\u0027.",
+  "language": "ko",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "DicomViewer",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Tokyo",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "002ac0cd0e174d92a04ccaf538a4c16e",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

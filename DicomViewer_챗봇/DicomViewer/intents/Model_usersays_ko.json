@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dbba4243-2ad4-4f00-812d-a94ccbf120bc",
+    "data": [
+      {
+        "text": "model ",
+        "userDefined": false
+      },
+      {
+        "text": "설명",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7e82dc36-46a1-4d2a-9ecd-b84ace8f1b35",
+    "data": [
+      {
+        "text": "모델",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "설명",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "03d0c4d7-0768-4a90-8a18-cbd4da1382ce",
+    "data": [
+      {
+        "text": "model",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a859daef-8c3a-4bda-8b0b-fee3d6b4fa60",
+    "data": [
+      {
+        "text": "모델",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

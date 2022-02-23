@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1df24f52-2798-4ccc-a070-50bf2f641e1b",
+    "data": [
+      {
+        "text": "앱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cb30c243-b5d5-4931-ae59-565053da7d87",
+    "data": [
+      {
+        "text": "어플",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "63bdcbf8-9427-4a33-aee2-d0ddb44c99e3",
+    "data": [
+      {
+        "text": "어플 ",
+        "userDefined": false
+      },
+      {
+        "text": "설명",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5db4a15f-3b94-45ab-ada0-b59bcf3ebecd",
+    "data": [
+      {
+        "text": "앱 ",
+        "userDefined": false
+      },
+      {
+        "text": "설명",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "27fb4748-bc68-400d-a02e-bf27881722ca",
+    "data": [
+      {
+        "text": "이건",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

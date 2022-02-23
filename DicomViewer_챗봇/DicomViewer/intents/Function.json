@@ -1,0 +1,35 @@
+{
+  "id": "72d7ff08-818a-4dec-9ebc-cec0d4dd2540",
+  "name": "Function",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "Dicom Viewer기능과 Image search 기능이 있습니다.\nDicom Viewer : Can watch dicom file with Zoom \u0026 Panning\nImage Search : Can search for any image you want"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "d2bf67f7-51ec-4671-b03d-b611d9f8b206",
+    "data": [
+      {
+        "text": "구조",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0414289a-dc22-4a41-abe6-6fa0ba8efa3a",
+    "data": [
+      {
+        "text": "구조",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f832e0c7-795b-45c1-a4f0-8dadb9d5cba6",
+    "data": [
+      {
+        "text": "전체 ",
+        "userDefined": false
+      },
+      {
+        "text": "구조",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e74c562a-e02c-4290-8f86-16c761e65650",
+    "data": [
+      {
+        "text": "Architecture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "efaca213-9206-4d43-b03f-cf67ada78236",
+    "data": [
+      {
+        "text": "구조",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]
